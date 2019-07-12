@@ -3,9 +3,9 @@ def using_until
 
   #your code here
 
-  until force == 10
+  until levitation_force == 10
     puts "Wingardium Leviosa"
-    force += 1
+    levitation_force += 1
   end
 
 end
