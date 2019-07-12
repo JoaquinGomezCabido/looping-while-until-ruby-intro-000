@@ -3,7 +3,7 @@ def using_until
 
   #your code here
 
-  until force >= 10
+  until force == 10
     puts "Wingardium Leviosa"
     force += 1
   end
